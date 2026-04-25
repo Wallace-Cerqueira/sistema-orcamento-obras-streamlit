@@ -1,6 +1,7 @@
 # 🏗️ Orçamento de Obras
 
-Aplicação feita com Streamlit para calcular materiais e custos de construção.
+Aplicação web interativa para cálculo de materiais e custos em obras, permitindo organização por ambiente e controle completo do orçamento.
+
 
 ## 🚀 Funcionalidades
 
