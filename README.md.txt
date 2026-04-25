@@ -16,3 +16,8 @@ Aplicação feita com Streamlit para calcular materiais e custos de construção
 pip install streamlit
 streamlit run app.py
 ```
+
+
+## 📸 Demonstração
+
+![App](screenshot.png)
