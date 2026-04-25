@@ -22,3 +22,10 @@ streamlit run app.py
 ## 📸 Demonstração
 
 ![App](screenshot.png)
+
+## 🧠 Aprendizados
+
+- Manipulação de dados com Python
+- Uso de Streamlit para interfaces web
+- Gerenciamento de estado com session_state
+- Estruturação de lógica de negócio
